@@ -3,10 +3,7 @@
 An interactive Excel dashboard to analyze coffee sales performance across time, product types, and customer segments.  
 The dashboard is built entirely in Excel using tables, PivotTables, slicers, and charts.
 
-> Replace the path below with your own image path:
->
-> `![Coffee Sales Dashboard](https://kccemsreduin-my.sharepoint.com/:x:/g/personal/tanvisujata_kccemsr_edu_in/EVqmT10hjW1Pn60XVH2M_tkBR9MJ682-HtGTtD5zOedaAQ?e=kZT2Bg)`
-
+![alt text](image.png)
 ---
 
 ## Overview
