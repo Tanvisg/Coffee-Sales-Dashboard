@@ -26,18 +26,23 @@ All analysis and visuals are contained in a single Excel workbook.
 The **Dashboard** sheet is the primary view and includes:
 
 - **Total Sales Overview (Line Chart)**  
+![totalSalasOverview.img](totalSalasOverview.png)]
   - Monthly sales trend for each coffee type (Arabica, Excelsa, Liberica, Robusta).  
   - Helps compare performance between coffee types over time.
 
 - **Sales by Country (Bar Chart)**  
+![SalesByCountry.img](SalesByCountry.png)
   - Horizontal bar chart summarizing total revenue by country (e.g., United States, Ireland, United Kingdom).  
   - Quickly shows which country contributes most to total sales.
 
 - **Top 5 Customers (Bar Chart)**  
+![topCustomers](topCustomers.png)
   - Ranks the top 5 customers by total sales value.  
   - Useful for identifying key customers to focus on.
 
 - **Interactive Filters (Slicers)**  
+![OrderDate](OrderDate.png) !
+[roastType](roastType.png) ![loyaltyCard](loyaltyCard.png) ![Size](Size.png)
   - **Order Date** (May 2019 – Oct 2021)  
   - **Roast Type Name** (Dark, Light, Medium)  
   - **Loyalty Card** (Yes / No)  
