@@ -1,4 +1,4 @@
-*.png
-!dashboard.png
+# *.png
+# !dashboard.png
 
 .DS_Store
